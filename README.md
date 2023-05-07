@@ -1,7 +1,8 @@
 [LinkedIn](https://www.linkedin.com/in/govind-madan/)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://gowindm.me/)
 
 # Drishti AI - Finding Missing Children
-![Drishti AI Demo](demo.gif)
+<img src="demo.gif" alt="Drishti AI Demo" height="400"/>
+
 Drishti AI is an app that leverages AI and facial recognition technology to identify missing children using only a few recent images of the child and a database of missing children. The app also includes a feature that enables the user to provide the location of missing children and connect authorities to them in real-time.
 
 ## Technologies Used
